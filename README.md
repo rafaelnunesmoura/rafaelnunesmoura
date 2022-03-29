@@ -8,7 +8,7 @@
 
 I am a Junior Software engineer. I love programming, Gamming and Workout.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail, I am interested in all aspects of technology and especially in robot Artificial Intelligence, car Self Driving Cars , chains Blockchain,rocket Aerospeace and computer Functional Programming. I strongly believe in the power of technology to improve people's everyday life.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
