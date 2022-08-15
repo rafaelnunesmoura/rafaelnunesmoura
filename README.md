@@ -1,22 +1,25 @@
 <h2 align="center"> I'm Happy to see you here!  <img  src="https://visitor-badge.glitch.me/badge?page_id=rafaelnunesmoura.rafael" /></h2>
+</br>
 
 <h3>I am a Aspirant Data Scientist . I love programming, Data and Workout.
 
 As a Data Scientist, I enjoy using my obsessive attention to detail, I am interested in all aspects of technology and especially in Artificial Intelligence, Self Driving Cars, Blockchain, Aerospeace and computer Programming. I strongly believe in the power of technology to improve people's everyday life.
+</h3>
+
+</br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelnunesmoura/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rafaelm229)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/devrafaelmoura)
 
 
-
-
-**Talking about Personal Stuffs:**
+<h3>
+Talking about Personal Stuffs:
 
 - 👨🏻‍💻 I’m currently working on Data Analytics;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/rafaelnunesmoura/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: rafaelnunesmoura@icloud.com;
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelnunesmoura/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rafaelm229)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/devrafaelmoura)
 <!-- - 📝 [Resume](!). -->
  </h3>
 
